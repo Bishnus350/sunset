@@ -1,0 +1,4 @@
+- Basic knowledge of longitude and latitude
+- Knowledge of python
+- Basic knowledge of mathematics and geometry.
+- This is pure mathematics, so either way is ok. Pyhton or Calculator. Of course, the code once written is reusuable. 
